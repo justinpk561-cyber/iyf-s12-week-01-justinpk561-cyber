@@ -114,3 +114,50 @@ nav a:hover {
         grid-template-columns: 1fr;
     }
 }
+
+/* Responsive Design */
+
+/* Tablets */
+@media (max-width: 768px) {
+    body {
+        padding: 15px;
+    }
+
+    .project-gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    header {
+        padding: 20px;
+    }
+}
+
+/* Mobile phones */
+@media (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+
+    .project-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    main {
+        padding: 15px;
+    }
+}
+
+/* Responsive images */
+img {
+    max-width: 100%;
+    height: auto;
+}
