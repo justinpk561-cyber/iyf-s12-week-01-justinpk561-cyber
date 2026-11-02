@@ -183,3 +183,30 @@ img {
     transform: scale(1.05);
 }
 
+/* Project Card Styling */
+
+.project-card {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Card Hover Effect */
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.project-card h3 {
+    color: #1e3a5f;
+    margin-top: 0;
+}
+
+.project-card p {
+    color: #555555;
+}
+
