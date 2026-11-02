@@ -1,33 +1,45 @@
-# Website 1: https://example.com
 
-<!--1.What HTML tags are used on the page?-->
-- html tag
-- head tag
-- title tag body tag
-- heading 1 tag
-- paragraph tag
-- article tag
-<!--2.what is the page title-->
-- Example Domain
-<!--3.How many headings are there-->
-- there is none
+# DevTools Exploration
 
-# Website 2: https://developer.mozilla.org
-<!--Find the navigation menu-what tag is it wrapped in?-->
-<!--How is the search bar structured?-->
-- <mdn-homepage-search> 
-<!--What happens when you hover over links (check the styles)?-->
-- The whole page turns blue
+## Website 1: Example.com
 
-# Website 3: Any website of your choice (goojara.to)
-<!--Identify 5 different HTML elements-->
-- head
-- body
-- div
-- script
-- footer
+Website: https://example.com
 
-<!--Find a form element and list its inputs-->
+1. What HTML tags are used on the page?
+   - 
 
-<!--Take a screenshot of the Elements panel-->
+2. What is the page title?
+   - 
 
+3. How many headings are there?
+   - 
+
+## Website 2: MDN
+
+Website: https://developer.mozilla.org
+
+1. What HTML tag wraps the navigation menu?
+   - 
+
+2. How is the search bar structured?
+   - 
+
+3. What happens when you hover over links?
+   - 
+
+## Website 3: My Chosen Website
+
+Website: 
+
+1. Identify 5 different HTML elements.
+   - 
+   - 
+   - 
+   - 
+   - 
+
+2. Find a form element and list its inputs.
+   - 
+
+3. Screenshot of the Elements panel:
+   - [Attach or insert screenshot here]
