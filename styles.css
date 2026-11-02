@@ -161,3 +161,25 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+/* Button Styling */
+
+.button {
+    background-color: #0077cc;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover Effect */
+
+.button:hover {
+    background-color: #004c99;
+    transform: scale(1.05);
+}
+
